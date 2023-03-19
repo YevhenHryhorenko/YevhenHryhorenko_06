@@ -6,7 +6,7 @@ let questions = [
     'What color is the sky?',
     'What is the correct answer to the ultimate question of life, the universe and all that?'
 ]
-let answers = ["4", "true", "infinity", "blue", "42"]
+let answers = ["4", true, "infinity", "blue", "42"]
 
 alert('All answers should be in English')
 
